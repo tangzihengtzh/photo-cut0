@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  CLU.cpp
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(33,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(76,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(81,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(95,34): warning C4838: 从“_Ty”转换到“double”需要收缩转换
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(95,62): warning C4838: 从“_Ty”转换到“double”需要收缩转换
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(96,34): warning C4838: 从“_Ty”转换到“double”需要收缩转换
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\tzh15\source\repos\photo_cut\photo_cut\CLU.cpp(96,62): warning C4838: 从“_Ty”转换到“double”需要收缩转换
+          with
+          [
+              _Ty=int
+          ]
+  dllmain.cpp
+  正在生成代码...
+    正在创建库 C:\Users\tzh15\source\repos\photo_cut\x64\Debug\cv_c.lib 和对象 C:\Users\tzh15\source\repos\photo_cut\x64\Debug\cv_c.exp
+  cv_c.vcxproj -> C:\Users\tzh15\source\repos\photo_cut\x64\Debug\cv_c.dll
